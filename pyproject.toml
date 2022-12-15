@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "policy_parser"
+name = "parse_policy"
 version = "0.1.0"
 description = ""
 authors = ["PermuteHQ <contact@permutehq.com>"]
